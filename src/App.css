@@ -9,10 +9,10 @@
 }
 
 
-.attendence_form {
+.attendance_form {
   background-color: #282c34;
   text-align: center;
-  color: #83cad3;
+  color: #5a5377;
 }
 
 .form {
@@ -21,7 +21,7 @@
   width: max-content;
   display: flex;
   flex-direction: column;
-  color: #83cad3;
+  color: #5a5377;
 }
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -44,13 +44,3 @@
 .App-link {
   color: #61dafb;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
